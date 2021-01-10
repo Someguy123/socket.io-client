@@ -16,7 +16,7 @@
     "component-bind": "1.0.0",
     "component-emitter": "1.2.0",
     "object-component": "0.0.3",
-    "socket.io-parser": "2.2.3",
+    "socket.io-parser": "3.3.2",
     "has-binary": "0.1.6",
     "indexof": "0.0.1",
     "parseuri": "0.0.2",
